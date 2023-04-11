@@ -1,0 +1,17 @@
+C:\Users\nico.jaeggle\Source\Repos\UltraCopy\bin\Debug\net6.0-windows\UltraCopyGUI.exe
+C:\Users\nico.jaeggle\Source\Repos\UltraCopy\bin\Debug\net6.0-windows\UltraCopyGUI.deps.json
+C:\Users\nico.jaeggle\Source\Repos\UltraCopy\bin\Debug\net6.0-windows\UltraCopyGUI.runtimeconfig.json
+C:\Users\nico.jaeggle\Source\Repos\UltraCopy\bin\Debug\net6.0-windows\UltraCopyGUI.dll
+C:\Users\nico.jaeggle\Source\Repos\UltraCopy\bin\Debug\net6.0-windows\UltraCopyGUI.pdb
+C:\Users\nico.jaeggle\Source\Repos\UltraCopy\obj\Debug\net6.0-windows\UltraCopyGUI.csproj.AssemblyReference.cache
+C:\Users\nico.jaeggle\Source\Repos\UltraCopy\obj\Debug\net6.0-windows\UltraCopyGUI.Form1.resources
+C:\Users\nico.jaeggle\Source\Repos\UltraCopy\obj\Debug\net6.0-windows\UltraCopyGUI.csproj.GenerateResource.cache
+C:\Users\nico.jaeggle\Source\Repos\UltraCopy\obj\Debug\net6.0-windows\UltraCopyGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nico.jaeggle\Source\Repos\UltraCopy\obj\Debug\net6.0-windows\UltraCopyGUI.AssemblyInfoInputs.cache
+C:\Users\nico.jaeggle\Source\Repos\UltraCopy\obj\Debug\net6.0-windows\UltraCopyGUI.AssemblyInfo.cs
+C:\Users\nico.jaeggle\Source\Repos\UltraCopy\obj\Debug\net6.0-windows\UltraCopyGUI.csproj.CoreCompileInputs.cache
+C:\Users\nico.jaeggle\Source\Repos\UltraCopy\obj\Debug\net6.0-windows\UltraCopyGUI.dll
+C:\Users\nico.jaeggle\Source\Repos\UltraCopy\obj\Debug\net6.0-windows\refint\UltraCopyGUI.dll
+C:\Users\nico.jaeggle\Source\Repos\UltraCopy\obj\Debug\net6.0-windows\UltraCopyGUI.pdb
+C:\Users\nico.jaeggle\Source\Repos\UltraCopy\obj\Debug\net6.0-windows\UltraCopyGUI.genruntimeconfig.cache
+C:\Users\nico.jaeggle\Source\Repos\UltraCopy\obj\Debug\net6.0-windows\ref\UltraCopyGUI.dll

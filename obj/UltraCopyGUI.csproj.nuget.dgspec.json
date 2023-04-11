@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nico.jaeggle\\Source\\Repos\\UltraCopy\\UltraCopyGUI\\UltraCopyGUI.csproj": {}
+    "C:\\Users\\nico.jaeggle\\source\\repos\\UltraCopy\\UltraCopyGUI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nico.jaeggle\\Source\\Repos\\UltraCopy\\UltraCopyGUI\\UltraCopyGUI.csproj": {
+    "C:\\Users\\nico.jaeggle\\source\\repos\\UltraCopy\\UltraCopyGUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nico.jaeggle\\Source\\Repos\\UltraCopy\\UltraCopyGUI\\UltraCopyGUI.csproj",
+        "projectUniqueName": "C:\\Users\\nico.jaeggle\\source\\repos\\UltraCopy\\UltraCopyGUI.csproj",
         "projectName": "UltraCopyGUI",
-        "projectPath": "C:\\Users\\nico.jaeggle\\Source\\Repos\\UltraCopy\\UltraCopyGUI\\UltraCopyGUI.csproj",
+        "projectPath": "C:\\Users\\nico.jaeggle\\source\\repos\\UltraCopy\\UltraCopyGUI.csproj",
         "packagesPath": "C:\\Users\\nico.jaeggle\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nico.jaeggle\\Source\\Repos\\UltraCopy\\UltraCopyGUI\\obj\\",
+        "outputPath": "C:\\Users\\nico.jaeggle\\source\\repos\\UltraCopy\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",
